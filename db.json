@@ -1,6 +1,9 @@
 {
   "posts": [
-    {"user":"90B7C75106C1FC0B6FF601D93F714796", "nextRenewal": 1486373326, "isEligible": true, "numberOfProfiles": 4, "numberOfConcurrentSessions": 4},
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
